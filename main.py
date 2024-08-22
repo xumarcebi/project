@@ -1,0 +1,1 @@
+basic.show_number(input.temperature() * 3 + input.light_level() * 3)
